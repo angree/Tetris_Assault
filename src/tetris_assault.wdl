@@ -1900,7 +1900,6 @@ function grawitacja
 	 }
 	 s0=s0+1;
 	}
-
 }
 function zawodnik1 { zaw=1; } //funkcja ktora nic nie robi
 
